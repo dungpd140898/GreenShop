@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Hello World</p>
-    <p>Hello Green Shop</p>
+    <h1>branch khuong</h1>
 </body>
 </html>
