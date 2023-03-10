@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>branch thuan</h1>
+    <h1>branch Thuan</h1>
 </body>
 </html>
